@@ -5,7 +5,7 @@
 
 
 
-## [👉👉 Samsung Odin v3.14.4 for Windows](https://freesoftcr.com/dl)
+## [👉👉 Samsung Odin v3.14.4 for PC](https://freesoftcr.com/dl)
 
 
 
